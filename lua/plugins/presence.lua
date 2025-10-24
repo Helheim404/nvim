@@ -1,6 +1,6 @@
 return {
   {
-    "IogaMaster/neocord",
+    "andweeb/presence.nvim",
     event = "VeryLazy",
   },
 }
